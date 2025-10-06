@@ -1,7 +1,7 @@
 # Snowflake_End_To_End_Data_Modelling
 
 ## Project Overview  
-This project demonstrates an end-to-end ETL/ELT pipeline on Snowflake using cricket ODI JSON data. It covers data ingestion, staging, transformation, data modeling (fact & dimension tables), automation with tasks, and visualization in Snowsight.
+This project demonstrates an end-to-end ELT pipeline on Snowflake using cricket ODI JSON data. It covers data ingestion, staging, transformation, data modeling (fact & dimension tables), automation with tasks, and visualization in Snowsight.
 
 ---
 
